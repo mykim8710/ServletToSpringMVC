@@ -12,7 +12,5 @@
         </ul>
 
         <a href="/index.html">메인</a><br>
-        <a href="/servlet-mvc/members/new-form">회원등록</a><br>
-        <a href="/servlet-mvc/members">회원목록</a>
     </body>
 </html>
