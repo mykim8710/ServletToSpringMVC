@@ -30,6 +30,6 @@
 
         <a href="/index.html">메인</a><br>
         <a href="/jsp/members/new-form.jsp">회원등록</a><br>
-        <a href="/jsp/members.jsp">회원목록</a>
+        <a href="/jsp/members/members.jsp">회원목록</a>
     </body>
 </html>
