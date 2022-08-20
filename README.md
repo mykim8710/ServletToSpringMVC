@@ -20,7 +20,7 @@
     │   │                      ├── member
     │   │                      │     ├── MemberRepository(C)   |  회원 저장소
     │   │                      │     └── Member(C)             |  회원 도메인 
-	│   │                      └── web
+    │   │                      └── web
     │   │                            ├── servlet
     │   │                            │       ├── MemberFormServlet(C)      |  서블릿, 회원등록
     │   │                            │       ├── MemberSaveServlet(C)      |  서블릿, 회원가입
